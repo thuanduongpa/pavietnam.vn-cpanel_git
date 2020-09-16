@@ -2,5 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/repositories/pavietnam.vn/cpanel_git
-    - /bin/cp -rf pavietnam_test.vn /home/repositories/
-    - /bin/cp -rf pavietnam_test.vn /home/repositories/
+
